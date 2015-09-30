@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module xLanguage
+# Module AdsLight
 #### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
@@ -12,10 +12,10 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module is for Classifieds Ads.
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the xLanguage Module (Admin side)*
+*Figure 1: Main view of the AdsLight Module (Admin side)*
 
 # Table of Content
 
