@@ -2,7 +2,7 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module AdsLight
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.8
       
 ![logoModule.png](assets/logoModule.png)
             
